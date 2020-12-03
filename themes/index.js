@@ -262,6 +262,12 @@ const themes = {
     icon_color: "a64833",
     text_color: "d9c8a9",
     bg_color: "402b23"
+  },
+  halcyon: {
+    title_color: "5ccfe6",
+    icon_color: "bae67e",
+    text_color: "d7dce2",
+    bg_color: "171c28"
   }
 };
 
